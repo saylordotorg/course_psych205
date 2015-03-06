@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH205: Clinical Psychology"
+course_description: "A survey of the study of diagnosing, treating, and understanding abnormal and maladaptive behaviors, which include depression, anxiety, and schizophrenia."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Issues and Ethics in Psychological Intervention** <span
 id="9"></span> 
 *This final unit does not deal directly with mental disorders, but

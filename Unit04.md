@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH205: Clinical Psychology"
+course_description: "A survey of the study of diagnosing, treating, and understanding abnormal and maladaptive behaviors, which include depression, anxiety, and schizophrenia."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Related Subspecialties of Clinical Psychology** <span
 id="4"></span> 
 *The previous units addressed the general goals of clinical psychology:

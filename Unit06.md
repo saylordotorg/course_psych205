@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH205: Clinical Psychology"
+course_description: "A survey of the study of diagnosing, treating, and understanding abnormal and maladaptive behaviors, which include depression, anxiety, and schizophrenia."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Mood Disorders and Suicide** <span id="6"></span> 
 *This unit will present different mood disorders, their etiologies, and
 their treatments across the lifespan. You will learn that though

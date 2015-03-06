@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH205: Clinical Psychology"
+course_description: "A survey of the study of diagnosing, treating, and understanding abnormal and maladaptive behaviors, which include depression, anxiety, and schizophrenia."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Mental Health Treatment** <span id="3"></span> 
 *You have now learned about the fundamentals of clinical psychology as
 well as the concepts of mental health and illness. As you have learned,

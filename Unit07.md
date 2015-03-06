@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH205: Clinical Psychology"
+course_description: "A survey of the study of diagnosing, treating, and understanding abnormal and maladaptive behaviors, which include depression, anxiety, and schizophrenia."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Schizophrenia** <span id="7"></span> 
 *Schizophrenia is among the most debilitating of mental diseases. It can
 lead to sustained hallucinations and delusions, among other symptoms,

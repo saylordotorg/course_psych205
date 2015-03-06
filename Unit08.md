@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH205: Clinical Psychology"
+course_description: "A survey of the study of diagnosing, treating, and understanding abnormal and maladaptive behaviors, which include depression, anxiety, and schizophrenia."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Age-related Disorders: Children and the Elderly** <span
 id="8"></span> 
 *Most disorders can arise at any time during a person’s lifetime, though

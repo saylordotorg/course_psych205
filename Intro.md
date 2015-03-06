@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH205: Clinical Psychology"
+course_description: "A survey of the study of diagnosing, treating, and understanding abnormal and maladaptive behaviors, which include depression, anxiety, and schizophrenia."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH205: Clinical Psychology"
 ---------------------------------------------------
 
