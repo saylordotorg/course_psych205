@@ -178,3 +178,4 @@ subunit 1.2 (a total of 3.5 hours) on Tuesday night, the rest of subunit
 - [Unit 7](https://legacy.saylor.org/psych205/Unit07/)
 - [Unit 8](https://legacy.saylor.org/psych205/Unit08/)
 - [Unit 9](https://legacy.saylor.org/psych205/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH205/PSYCH205-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH205/PSYCH205-FinalExam-Answers.html)
