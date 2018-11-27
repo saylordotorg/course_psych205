@@ -142,7 +142,7 @@ Psychology” article for additional information.*
     Link: United States Department of Health and Human Services’
     *MentalHealth: A Report of the Surgeon General (1999)*: [“Chapter 2:
     The Fundamentals of Mental Health and Mental
-    Illness”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych205-2.2.pdf) (PDF)  
+    Illness”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-2.2.pdf) (PDF)  
         
      Instructions: Read the “Overview of Mental Illness” through the
     “Overview of Mental Health Services,” excluding “Overview of

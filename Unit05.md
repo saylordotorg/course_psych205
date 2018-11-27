@@ -56,7 +56,7 @@ Upon successful completion of this unit, you will be able to:
     Link: United States Department of Health and Human Services’ *Mental
     *Health: A Report of the Surgeon General** *(1999): [“Chapter 4:
     Adults and Mental
-    Health”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych205-ch4.pdf)* (PDF)  
+    Health”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch4.pdf)* (PDF)  
         
      Instructions: Read the section titled “Anxiety Disorders.” Please
     note that the pages in the PDF bar at the top of the document do not
@@ -98,7 +98,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *National Institute of Mental Health’s* “What is Panic
     Disorder?”**
     Link: *National Institute of Mental Health’s* [“What is Panic
-    Disorder?”](http://www.saylor.org/site/wp-content/uploads/2012/06/Anxiety-Disorders.pdf) (PDF)  
+    Disorder?”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Anxiety-Disorders.pdf) (PDF)  
         
      Instructions: Read this section located on pages 3–4, including the
     quote at the top of the page.  
@@ -118,7 +118,7 @@ Upon successful completion of this unit, you will be able to:
     Anxiety Disorder?”**
     Link: *National Institute of Mental Health’*s [“What Is Social
     Anxiety
-    Disorder?”](http://www.saylor.org/site/wp-content/uploads/2012/06/Anxiety-Disorders.pdf) (PDF)  
+    Disorder?”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Anxiety-Disorders.pdf) (PDF)  
         
      Instructions: Read this section located on pages 9–10, including
     the quote at the top of the page.  
@@ -133,7 +133,7 @@ Upon successful completion of this unit, you will be able to:
     Generalized Anxiety Disorder?” (PDF)**
     Link**:** *National Institute of Mental Health*’s [“What Is
     Generalized Anxiety
-    Disorder?”](http://www.saylor.org/site/wp-content/uploads/2012/06/Anxiety-Disorders.pdf)
+    Disorder?”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Anxiety-Disorders.pdf)
     (PDF)  
       
      Instructions: Please click on the above link titled “What Is
@@ -170,7 +170,7 @@ Upon successful completion of this unit, you will be able to:
     Obsessive-Compulsive Disorder?”**
     Link: *National Institute of Mental Health*’s [“What is
     Obsessive-Compulsive
-    Disorder?”](http://www.saylor.org/site/wp-content/uploads/2012/06/Anxiety-Disorders.pdf)
+    Disorder?”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Anxiety-Disorders.pdf)
     (PDF)  
       
      Instructions: Please click on the above link and read this brief
@@ -225,7 +225,7 @@ article on “Anxiety and Worry as Aspects of Normal Behavior.”*
     and Dr. Giuseppe Riva’s (2008) [“The Potential of Virtual Reality as
     Anxiety Management Tool: A Randomized Controlled Study in a Sample
     of Patients Affected by Generalized Anxiety
-    Disorder”](http://www.saylor.org/site/wp-content/uploads/2012/06/PSYCH205_Unit-5.3.1_Trials.pdf)
+    Disorder”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PSYCH205_Unit-5.3.1_Trials.pdf)
     (PDF)  
         
      Instructions: Read this article. Focus on the Introduction,
@@ -292,7 +292,7 @@ techniques.*
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General**
     *(1999): *["Chapter 3: Children and Mental
-    Health"](http://www.saylor.org/site/wp-content/uploads/2011/07/psych205-ch3.pdf) (PDF)  
+    Health"](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch3.pdf) (PDF)  
       
      Instructions: Read the section titled “Anxiety Disorders,” which is
     a subsection of “Other Mental Disorders in Children and
@@ -365,7 +365,7 @@ Children and Mental Health,” pg. 162 for additional information.*
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General (1999): [“Chapter 5:
     Older Adults and Mental
-    Health”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych205-ch5.pdf)  **(PDF)  
+    Health”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch5.pdf)  **(PDF)  
         
      Instructions: Read the section titled “Anxiety Disorders,” which is
     under “Other Mental Disorders in Older Adults.” Please note that the

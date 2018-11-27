@@ -157,7 +157,7 @@ id="4.2"></span> 
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General**
     *(1999): *[“Chapter 3: Children and Mental
-    Health”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych205-ch3.pdf) (PDF)  
+    Health”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch3.pdf) (PDF)  
         
      Instructions: Read from the section titled “Normal Development”
     through the section titled “Overview of Mental Disorders in
@@ -291,7 +291,7 @@ id="4.4"></span> 
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General** *(1999):*
     [“Chapter 5: Older Adults and Mental
-    Health”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych205-ch5.pdf) (PDF)  
+    Health”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch5.pdf) (PDF)  
         
      Instructions: Read from the section titled “Chapter Overview”
     through the section titled “Overview of Mental Disorders in Older
