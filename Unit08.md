@@ -35,7 +35,7 @@ id="8.1"></span> 
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General (1999): [“Chapter 3:
     Children and Mental
-    Health”](http://www.saylor.org/site/wp-content/uploads/2011/07/psych205-ch3.pdf)**
+    Health”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch3.pdf)**
     (PDF)  
         
      Instructions: Please click on the above link and read the section
@@ -136,7 +136,7 @@ Children and Mental Health,” pages 167–168 for additional information.*
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General (1999):** ["Chapter
     5: Older Adults and Mental
-    Health"](http://www.saylor.org/site/wp-content/uploads/2011/07/psych205-ch5.pdf) (PDF)  
+    Health"](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch5.pdf) (PDF)  
         
      Instructions: Read the section titled “Alzheimer’s Disease.” Please
     note that the pages in the PDF bar at the top of the document do not
