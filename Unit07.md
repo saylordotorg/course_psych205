@@ -63,7 +63,7 @@ Upon successful completion of this unit, you will be able to:
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General (1999):** ["Chapter
     4: Adults and Mental
-    Health"](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch4.pdf)  
+    Health"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/psych205-ch4.pdf)  
       
      Instructions: Read the section titled “Schizophrenia.” Please note
     that the pages in the PDF bar at the top of the document do not
@@ -186,7 +186,7 @@ additional information.*
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General (1999):** ["Chapter
     5: Older Adults and Mental
-    Health"](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch5.pdf) (PDF)  
+    Health"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/psych205-ch5.pdf) (PDF)  
         
      Instructions: Read the section titled “Schizophrenia in Late Life”
     under the section “Other Mental Disorders in Older Adults.” Please

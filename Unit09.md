@@ -38,7 +38,7 @@ Upon successful completion of this unit, you will be able to:
     Link: United States Department of Health and Human Services’
     *Mental*Health: A Report of the Surgeon General (1999): [“Chapter 2:
     The Fundamentals of Mental Health and Mental
-    Illness”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-2.2.pdf) **(PDF)  
+    Illness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/psych205-2.2.pdf) **(PDF)  
         
      Instructions: Read the section titled “Overview of Cultural
     Diversity and Mental Health Services.” Please note that the pages in
@@ -127,7 +127,7 @@ information.*
     *Mental*Health: A Report of the Surgeon General (1999):** ["Chapter
     7: Confidentiality of Mental Health Information: Ethical, Legal, and
     Policy
-    Issues"](https://resources.saylor.org/archived/wp-content/uploads/2011/07/psych205-ch7.pdf) (PDF)  
+    Issues"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/psych205-ch7.pdf) (PDF)  
         
      Instructions: Read Chapter 7 titled “Confidentiality of Mental
     Health Information: Ethical, Legal, and Policy Issues.”   
